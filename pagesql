@@ -1,0 +1,10 @@
+website-audit-engine/
+  api/
+    audit.js
+  lib/
+    crawler.js
+    extract.js
+    utils.js
+  package.json
+  vercel.json
+  README.md
